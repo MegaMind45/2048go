@@ -4,5 +4,5 @@ mg.setAttribute("srcdoc", '<style> html, body { margin: 0; padding: 0; backgroun
 document.getElementsByTagName("body")[0].appendChild(mg)
 var thestyle = document.createElement("style")
 thestyle.innerText += "#mgid {position: fixed; left: 0px; top: 0px; width: 100%; height:100%; background: black; z-index: 9999999999; border: none;}"
-thestyle.innerText += "body {overflow:none;}"
+thestyle.innerText += "body {overflow: hidden;}"
 document.getElementsByTagName("body")[0].appendChild(thestyle)
