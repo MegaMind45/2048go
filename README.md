@@ -9,7 +9,7 @@ Play 2048. Anytime. Anywhere. Unblocked. With A Simple Bookmarklet.
 3. Set the name to `2048go` and the URL to the code below or [here](https://github.com/Browncha023/2048go/blob/main/bookmarklet.txt)
 
 ```js
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/Browncha023/2048go@v2.0.0/script.min.js';document.body.appendChild(a);}())
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/Browncha023/2048go@v2.0.1/script.min.js';document.body.appendChild(a);}())
 ```
 
 Click the bookmarklet on any page to play 2048!
