@@ -14,4 +14,5 @@ javascript:(function () {var a = document.createElement('script');a.src = 'https
 
 Click the bookmarklet on any page to play 2048!
 
-`*2048 is held locally in the javascript to stay unblocked! +Specific Site, Auto Save & Play Is Included!`
+`*2048 is held locally in the javascript to stay unblocked!
++Specific Site, Auto Save & Play Is Included!`
