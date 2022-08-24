@@ -1,3 +1,6 @@
+# ⚠️This Project Is No Longer Supported!⚠️
+- Please check out [Vengeance](https://github.com/Browncha023/Vengeance) instead!
+
 # 2048go
 Play 2048. Anytime. Anywhere. Unblocked. With A Simple Bookmarklet.
 
